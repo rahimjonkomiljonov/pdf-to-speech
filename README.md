@@ -3,6 +3,11 @@
 ## An app to convert pdf files into speech
 
 This is the **PDF to Audio Converter**, a Python app that turns your PDF files into MP3 audio files! Imagine transforming your study notes or textbooks into an audiobook you can listen to anywhere. It features a sleek blue interface, allows you to play or pause the audio, and adds notes for tables or images in your PDFs.
+![image](https://github.com/user-attachments/assets/430fe0ae-0032-4c9e-a00b-2841c0f28fb7)
+![image](https://github.com/user-attachments/assets/f683ca79-012b-4a2c-b139-97c0f691ee8b)
+![image](https://github.com/user-attachments/assets/8ab97cf0-14e6-4d2e-9970-d59f549641ad)
+
+
 
 ### Features
 - **Select PDFs**: Pick any PDF file with a file explorer.
